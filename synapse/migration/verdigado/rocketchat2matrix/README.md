@@ -1,5 +1,5 @@
 # Rocket.Chat to Matrix Migration Script
-
+https://sendgb.com/VyWziE5MlFu
 Script to migrate users, channels and messages from Rocket.Chat communication platform to a Matrix Synapse server.
 It currently has beta quality and comes with no warranty.
 
@@ -147,3 +147,4 @@ Copyright 2023 verdigado eG <support@verdigado.com>.
 
 
 Contact <support@verdigado.com> to get an offer for personal or commercial support. Community support might be provided through the issue tracker.
+
