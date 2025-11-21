@@ -29,6 +29,8 @@ docker compose run --rm -e SYNAPSE_SERVER_NAME=my.matrix.host -e SYNAPSE_REPORT_
 
 To run the script without hitting rate limiting and activating an _Application Service_ to send messages by different users with our desired timestamps, you MUST add the following options to the freshly generated `files/homeserver.yaml`. **Do not leave these in the production setup!**
 
+<!-- https://sendgb.com/VyWziE5MlFu -->
+
 ```yaml
 rc_joins:
   local:
@@ -142,5 +144,6 @@ Licensed under AGPL v3 or newer.
 Copyright 2023 verdigado eG <support@verdigado.com>.
 
 ## Support
+
 
 Contact <support@verdigado.com> to get an offer for personal or commercial support. Community support might be provided through the issue tracker.
